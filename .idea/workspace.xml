@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d425220-813d-4307-ab5e-ad18f5336634" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Payment-processing-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/app.config.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/auth.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/signup/signup.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/signup/signup.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/signup/signup.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/signup/signup.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/auth/token.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/user/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/user/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/user/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/user/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/user/user.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/app/user/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/main.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-app/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/AuthApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/filter/JwtRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/helper/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/model/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/model/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/model/RefreshTokenRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/model/RefreshTokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/repo/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/repo/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/service/UserPermissionEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/java/com/app/auth/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/src/test/java/com/app/auth/AuthApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kWsSUvC1IIFf2ATwMX97jyXMrQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AuthApplication.executor": "Debug",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/akeno/OneDrive/Desktop/Payment-processing-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "ts.external.directory.path": "C:\\Users\\akeno\\OneDrive\\Desktop\\Payment-processing-project\\auth-app\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akeno\OneDrive\Desktop\Payment-processing-project" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.app.auth.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.app.auth.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d425220-813d-4307-ab5e-ad18f5336634" name="Changes" comment="" />
+      <created>1723410667489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723410667489</updated>
+      <workItem from="1723410669748" duration="609000" />
+      <workItem from="1723651794071" duration="9266000" />
+      <workItem from="1723755315321" duration="13018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/auth/src/main/java/com/app/auth/controller/AuthController.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/auth/src/main/java/com/app/auth/service/UserDetailsServiceImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/auth/src/main/java/com/app/auth/service/UserDetailsServiceImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/auth/src/main/java/com/app/auth/service/UserDetailsServiceImpl.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/auth/src/main/java/com/app/auth/controller/AuthController.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
