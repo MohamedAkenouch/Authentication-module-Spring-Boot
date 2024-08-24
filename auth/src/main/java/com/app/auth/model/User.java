@@ -1,7 +1,5 @@
 package com.app.auth.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -10,6 +8,7 @@ import java.util.*;
 @Data
 @Entity
 @Table(name = "users")
+@EqualsAndHashCode(exclude = "roles")
 public class User {
 
     @Id

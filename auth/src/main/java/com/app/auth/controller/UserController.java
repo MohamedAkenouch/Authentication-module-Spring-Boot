@@ -15,14 +15,14 @@ public class UserController {
     private UserService userService;
 
     @GetMapping("/{id}")
-    @PreAuthorize("hasRole('ROLE_USER') and @userPermissionEvaluator.hasPermission(#id)")
+    @PreAuthorize("hasRole('ROLE_USER') and hasPermission(#id, 'READ')")
     public ResponseEntity<User> getUserProfile(@PathVariable Long id) {
         User user = userService.getUserById(id);
         return ResponseEntity.ok(user);
     }
 
     @PutMapping("/{id}")
-    @PreAuthorize("hasRole('USER') and @userPermissionEvaluator.hasPermission(#id)")
+    @PreAuthorize("hasRole('USER') and hasPermission(#id, 'EDIT')")
     public ResponseEntity<User> updateUserProfile(@PathVariable Long id, @RequestBody User user) {
         User updatedUser = userService.updateUser(id, user);
         return ResponseEntity.ok(updatedUser);

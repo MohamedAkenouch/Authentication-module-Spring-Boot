@@ -18,6 +18,7 @@ public class UserPermissionEvaluator implements PermissionEvaluator {
 
     @Override
     public boolean hasPermission(Authentication authentication, Object targetDomainObject, Object permission) {
+        String type = targetDomainObject.getClass().getSimpleName();
         if (authentication == null || !(targetDomainObject instanceof Long)) {
             return false;
         }
